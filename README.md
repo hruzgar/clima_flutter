@@ -2,7 +2,7 @@
 
 I created this app with the help of Angela Yu's amazing Flutter course on udemy!
 
-![Finished App](https://github.com/hruzgar/clima_flutter/images/clima-demo.gif)
+![Finished App](https://github.com/hruzgar/clima_flutter/blob/main/images/clima-demo.gif)
 
 ## What i learned:
 
